@@ -1,0 +1,21 @@
+.form_box {
+    width: 600px;
+    height: 50px;
+    padding: 30px;
+}
+.filter_form {
+    display: block;
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 300px;
+    outline: none;
+    border: 2px solid black;
+
+}
+.filter_form:focus {
+    border-color: blue;
+}
+.form_label {
+    font-weight: 400;
+    font-size: 20px;
+}
